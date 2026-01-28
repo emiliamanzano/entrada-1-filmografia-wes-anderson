@@ -14,7 +14,12 @@ h1 {
 	color: #66cd63;
 }
 
-p,
+p {
+	fonte-size: 20px;
+	line-height: 2;
+	letter-spacing: 1px;
+	text-indent: 50px;
+}
 li {
 	fonte-size: 20px;
 	line-height: 2;
@@ -39,4 +44,5 @@ img {
 	color: darkseagreen;
 	text-decoration: line-through solid black 2px;
 }
+
 
